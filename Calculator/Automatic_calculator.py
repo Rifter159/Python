@@ -13,4 +13,4 @@ elif method == "/":
 elif method == "*":
     print(num1 * num2)
 else:
-    print("Invalide method")
+    print("Invalid method")
